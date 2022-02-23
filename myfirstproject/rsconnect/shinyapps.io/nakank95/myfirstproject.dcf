@@ -1,0 +1,13 @@
+name: myfirstproject
+title: myfirstproject
+username:
+account: nakank95
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5713946
+bundleId: 5607675
+url: https://nakank95.shinyapps.io/myfirstproject/
+when: 1645578808.77948
+lastSyncTime: 1645578808.77948
+asMultiple: FALSE
+asStatic: FALSE
